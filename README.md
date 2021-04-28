@@ -1,1 +1,1 @@
-# This repository is building of dash appliction
+# This repository is building of dash application
